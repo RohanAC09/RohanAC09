@@ -9,15 +9,15 @@
 
 - 💼 I'm currently working as a **Software Engineer** at LTIMindree, Pune
 
-- 🚀 I love to design **scalable** applications
+- 🚀 I love to design **scalable** applications using **Spring Boot (Java)** and **React (JS)**
 
-- 🎯 I have good knowledge of **SOLID** principles, **Design Patterns**, **Low-level** and **High-level** Design
+- 🎯 I develop reliable apps by implementing **SOLID** principles, **Design Patterns**, **Low-level** and **High-level** Design
 
-- ✨ I have deep dived in **java, C++, Python**, frameworks as **Spring-Boot, React** and cloud technologies as **Docker, Kubernetes**
+- ✨ I have deep dived in **java, C++, Python**, frameworks (& libs) as **Spring-Boot, React** and cloud technologies as **Docker, Kubernetes**
 
 <!-- - 🎯 I'm currently working on my personal project "[**Spending-Insights**](https://github.com/RohanAC09/Expense-Insights)" for effortlessly tracking monthly and annual expenses -->
 
-- 🏸 I love playing Badminton, touring on bike, exploring nature.
+- 🏸 I love playing Badminton, touring on bike, and exploring natural places.
 
 ---
 
