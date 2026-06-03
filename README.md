@@ -19,6 +19,14 @@
 
 - 🏸 I love playing Badminton, touring on bike, and exploring natural places.
 
+
+## Recent work
+- Pocketter
+<img height="468" alt="Pocketter Application Demo" src="https://github.com/user-attachments/assets/15ab1eb8-5c02-467e-9bbc-d612c0ec0d01" />
+
+- InstaNotes
+<img width="1000" alt="InstaNotes Home page" src="https://github.com/user-attachments/assets/515fa89e-24e5-441a-9330-f26ed10d1819" />
+
 ---
 
 <h3 align="center">Connect with me:</h3>
